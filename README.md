@@ -1,6 +1,9 @@
 # Guerrilla
 
-the task was to make a quick 1 page website within the time limit. 
+the task was to look at an ugly website and make it better.  
+i tried to make it look cleaner and more readable.
+
+
 
 ## what did i use?
 
