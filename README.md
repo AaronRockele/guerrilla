@@ -15,6 +15,3 @@ i also used a template.  (link below)
 [link to the preview](https://aaronrockele.github.io/guerrilla/)
 
 
-## Contributing
-
-i worked alone on it.
